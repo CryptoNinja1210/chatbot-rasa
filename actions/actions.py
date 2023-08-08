@@ -1,6 +1,6 @@
 # This files contains your custom actions which can be used to run
 # custom Python code.
-#
+# ////////////// rasa run -m models --enable-api --cors "*" --debug
 # See this guide on how to implement these action:
 # https://rasa.com/docs/rasa/custom-actions
 
