@@ -27,7 +27,7 @@ responses:
   - text: "Bye"
 
   utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+  - text: "I am Crypto Ninja"
 
 session_config:
   session_expiration_time: 60
