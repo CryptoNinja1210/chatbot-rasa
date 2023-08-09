@@ -1,5 +1,5 @@
 # This files contains your custom actions which can be used to run
-# custom Python code. rasa train --config config.yml --endpoints endpoints.yml
+# custom Python code. ////// rasa train --config config.yml --endpoints endpoints.yml
 # ////////////// rasa run -m models --enable-api --cors "*" --debug //// pip install SQLAlchemy<2.0 //// pip install --upgrade pip
 # See this guide on how to implement these action:
 # https://rasa.com/docs/rasa/custom-actions
