@@ -48,5 +48,3 @@ policies: null
 #     max_history: 5
 #     epochs: 100
 #     constrain_similarities: true
-telemetry:
-  enabled: true
